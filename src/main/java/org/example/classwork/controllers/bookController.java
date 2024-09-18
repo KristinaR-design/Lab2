@@ -15,7 +15,7 @@ public class bookController {
         private String author;
         private String status;
 
-        // Getters and Setters
+
         public String getTitle() {
             return title;
         }
